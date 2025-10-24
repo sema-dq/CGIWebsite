@@ -1,7 +1,4 @@
 
-  # Church Website Design
-
-  This is a code bundle for Church Website Design. The original project is available at https://www.figma.com/design/GKwgQWRMXh0POrNpzNVa7c/Church-Website-Design.
 
   ## Running the code
 
